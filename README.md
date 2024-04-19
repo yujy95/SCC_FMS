@@ -1,4 +1,4 @@
-# SCC_FMS
+# FMS_SCC
 VVC SCC project for TBC2024
 
 <br/>FMS_SCC: VTM code
